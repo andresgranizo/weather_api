@@ -19,7 +19,7 @@ This project is comprised of the following languages and libraries:
 
 ## Using the APP
 
-* Just make a  GET request to http://http://127.0.0.1/Weather_Api/public/{city_name}
+* Just make a  GET request to http://127.0.0.1/Weather_Api/public/{city_name}
 
 
 
