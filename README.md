@@ -23,7 +23,7 @@ This project is comprised of the following languages and libraries:
 
 ## Status badge
 
-[![CircleCI](https://circleci.com/gh/circleci/weather_api.svg?style=svg)](https://app.circleci.com/pipelines/github/andresgranizo/weather_api)
+!https://circleci.com/gh/circleci/weather_api.svg?style=svg!:https://app.circleci.com/pipelines/github/andresgranizo/weather_api
 
 
 
