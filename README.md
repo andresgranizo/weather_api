@@ -21,6 +21,10 @@ This project is comprised of the following languages and libraries:
 
 * Just make a  GET request to http://127.0.0.1/Weather_Api/public/{city_name}
 
+## Status badge
+
+[![CircleCI](https://circleci.com/gh/circleci/weather_api.svg?style=svg)](https://app.circleci.com/pipelines/github/andresgranizo/weather_api)
+
 
 
 
